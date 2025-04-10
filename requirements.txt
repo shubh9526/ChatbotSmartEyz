@@ -1,0 +1,8 @@
+SQLAlchemy
+flask-cors
+langchain
+Flask
+langchain-openai
+langchain-community
+pyodbc
+gunicorn
